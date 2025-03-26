@@ -1,5 +1,5 @@
 ---
-title: Doccter Assitant APP
+title: Doccter Assitant App
 emoji: 🚀
 colorFrom: blue
 colorTo: green
