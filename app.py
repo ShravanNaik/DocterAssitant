@@ -4,7 +4,6 @@ import os
 from crewai_tools import ScrapeWebsiteTool, SerperDevTool
 from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
-from docx import Document
 from io import BytesIO
 import base64
 from PIL import Image
