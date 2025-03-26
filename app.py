@@ -27,7 +27,6 @@ with st.sidebar:
     st.markdown("## Features")
     st.markdown("✅ Diagnosis Recommendations")
     st.markdown("✅ Treatment Plans")
-    st.markdown("✅ Download Reports")
 
 # Main Section
 st.title("🩺 Multi Agentic AI-Powered Doctor's Assistant")
