@@ -30,7 +30,7 @@ with st.sidebar:
     st.markdown("✅ Download Reports")
 
 # Main Section
-st.title("🩺 AI-Powered Doctor's Assistant")
+st.title("🩺 Multi Agentic AI-Powered Doctor's Assistant")
 st.markdown("Get instant medical insights with AI-powered diagnosis and treatment recommendations.")
 st.divider()
 
